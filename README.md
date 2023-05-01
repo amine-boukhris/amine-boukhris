@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amine-boukhris
 - 👀 I’m interested in coding, graphic designing
-- 🌱 I’m currently learning data structures and algorithms
+- 🌱 I’m currently learning php, ready to dive in back-end development.
 
 <!---
 amine-boukhris/amine-boukhris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
